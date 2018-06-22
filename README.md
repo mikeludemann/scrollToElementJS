@@ -10,7 +10,7 @@ Default
 $(Selector).scrollToElement();
 
 Setting options
-- Selector (ID or Class or Path)
+- Selector for element (ID or Class or Path)
 - distance from top
 - animation speed in milliseconds
 - URL without anchor
